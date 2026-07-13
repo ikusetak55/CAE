@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="126.288pt" height="131.381012pt" viewBox="0 0 126.288 131.381012" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-13T06:41:21.787670</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 131.381012 
+L 126.288 131.381012 
+L 126.288 0 
+L 0 0 
+L 0 131.381012 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 64.88675 69.221154 
+Q 84.742233 80.433662 102.455945 90.436699 
+" clip-path="url(#p89b604ef72)" style="fill: none; stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 97.95671 83.761604 
+L 102.455945 90.436699 
+L 94.416328 90.03103 
+z
+" clip-path="url(#p89b604ef72)" style="stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 63.144 66.239883 
+Q 63.144 43.33602 63.144 22.891832 
+" clip-path="url(#p89b604ef72)" style="fill: none; stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 59.544 30.091832 
+L 63.144 22.891832 
+L 66.744 30.091832 
+z
+" clip-path="url(#p89b604ef72)" style="stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 61.40125 69.221154 
+Q 41.545767 80.433662 23.832055 90.436699 
+" clip-path="url(#p89b604ef72)" style="fill: none; stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 31.871672 90.03103 
+L 23.832055 90.436699 
+L 28.33129 83.761604 
+z
+" clip-path="url(#p89b604ef72)" style="stroke: #000000; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 63.144 71.286212 
+C 63.952657 71.286212 64.728303 70.96493 65.30011 70.393122 
+C 65.871917 69.821315 66.1932 69.04567 66.1932 68.237012 
+C 66.1932 67.428355 65.871917 66.65271 65.30011 66.080903 
+C 64.728303 65.509095 63.952657 65.187812 63.144 65.187812 
+C 62.335343 65.187812 61.559697 65.509095 60.98789 66.080903 
+C 60.416083 66.65271 60.0948 67.428355 60.0948 68.237012 
+C 60.0948 69.04567 60.416083 69.821315 60.98789 70.393122 
+C 61.559697 70.96493 62.335343 71.286212 63.144 71.286212 
+z
+" clip-path="url(#p89b604ef72)" style="stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- X -->
+    <g transform="translate(110.4066 96.264519) scale(0.13 -0.13)">
+     <defs>
+      <path id="IPAexGothic-58" d="M 4203 63 
+L 3469 63 
+L 2163 1972 
+L 881 63 
+L 159 63 
+L 1822 2369 
+L 203 4634 
+L 922 4634 
+L 2181 2753 
+L 3450 4634 
+L 4166 4634 
+L 2528 2375 
+L 4203 63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#IPAexGothic-58"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- Y -->
+    <g transform="translate(59.119078 11.897812) scale(0.13 -0.13)">
+     <defs>
+      <path id="IPAexGothic-59" d="M 3963 4634 
+L 2241 2188 
+L 2241 63 
+L 1678 63 
+L 1678 2188 
+L -13 4634 
+L 697 4634 
+L 1978 2638 
+L 3256 4634 
+L 3963 4634 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#IPAexGothic-59"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- Z -->
+    <g transform="translate(6.518594 96.264519) scale(0.13 -0.13)">
+     <defs>
+      <path id="IPAexGothic-5a" d="M 3881 63 
+L 213 63 
+L 213 472 
+L 2406 3366 
+Q 2572 3591 3022 4122 
+L 3022 4141 
+L 403 4141 
+L 403 4634 
+L 3713 4634 
+L 3713 4178 
+L 1544 1306 
+Q 1184 834 969 588 
+L 969 563 
+L 3881 563 
+L 3881 63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#IPAexGothic-5a"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p89b604ef72">
+   <rect x="2.16" y="7.253012" width="121.968" height="121.968"/>
+  </clipPath>
+ </defs>
+</svg>
